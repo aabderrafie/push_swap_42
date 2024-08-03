@@ -137,7 +137,7 @@ To compile and run the programs, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/aabderrafie/push_swap_42_Cursus.git
+   git clone https://github.com/aabderrafie/push_swap_42.git
    cd push_swap
    ```
 
